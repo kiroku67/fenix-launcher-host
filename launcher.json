@@ -1,18 +1,22 @@
 {
-	"schema": 1,
-	"id": "fenix-launcher",
-	"name": "Fenix Launcher",
-	"servers": {
-		"fenix-server": {
-			"id": "fenix-server",
-			"name": "Fenix Server",
-			"description": "Juega fenix server",
-			"address": "hypixel.net",
-			"icon": "https://kiroku67.github.io/fenix-launcher-host/icons/fenix-server.png",
-			"mcVersion": "1.19.2",
-			"loader": "forge",
-			"loaderVersion": "43.5.2",
-			"pack": null
-		}
-	}
+  "schema": 1,
+  "id": "fenix-launcher",
+  "name": "Fenix Launcher",
+  "servers": {
+    "fenix-server": {
+      "id": "fenix-server",
+      "name": "Fenix Server",
+      "description": "Juega fenix server",
+      "address": "hypixel.net",
+      "icon": "https://kiroku67.github.io/fenix-launcher-host/icons/fenix-server.png",
+      "mcVersion": "1.19.2",
+      "loader": "forge",
+      "loaderVersion": "43.5.2",
+      "pack": {
+        "url": "https://kiroku67.github.io/fenix-launcher-host/server-fenix-server.mrpack",
+        "version": "a9a2633fed",
+        "sha1": "bc9cc8c1b09575b6e564ba157c5a013397c50355"
+      }
+    }
+  }
 }
