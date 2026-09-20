@@ -8,7 +8,7 @@
 			"name": "Fenix Server",
 			"description": "Juega fenix server",
 			"address": "hypixel.net",
-			"icon": "C:\\Users\\kuuro\\Desktop\\ファイル\\アイコン\\enderman.png",
+			"icon": "https://kiroku67.github.io/fenix-launcher-host/icons/fenix-server.png",
 			"mcVersion": "1.19.2",
 			"loader": "forge",
 			"loaderVersion": "43.5.2",
